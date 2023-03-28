@@ -1,6 +1,6 @@
 import { TestBed } from '@angular/core/testing';
-import { UiSdkModule } from '@mycomp/ui-sdk';
-import { ButtonModule } from '@mycomp/ui-sdk/button';
+import { UiSdkModule } from 'ui-sdk-moo';
+import { ButtonModule } from 'ui-sdk-moo/button';
 import { AppComponent } from './app.component';
 
 describe('AppComponent', () => {

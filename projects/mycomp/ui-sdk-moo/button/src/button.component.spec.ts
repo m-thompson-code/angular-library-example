@@ -1,5 +1,5 @@
 import { ComponentFixture, TestBed } from '@angular/core/testing';
-import { I18nModule } from '@mycomp/ui-sdk/i18n';
+import { I18nModule } from 'ui-sdk-moo/i18n';
 import { ButtonComponent } from './button.component';
 
 describe('ButtonComponent', () => {

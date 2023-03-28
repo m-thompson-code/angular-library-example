@@ -1,11 +1,15 @@
 import { Component, OnInit } from '@angular/core';
+// import { CodeModel } from '@ngstack/code-editor';
 
 @Component({
-  selector: 'lib-ui-sdk',
+  selector: 'lib-ui-sdk-moo',
   template: `
     <p>
       {{ 'hello world' | translate }}
     </p>
+
+
+
   `,
   styles: [],
 })
